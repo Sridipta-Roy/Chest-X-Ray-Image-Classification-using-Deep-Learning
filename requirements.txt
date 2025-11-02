@@ -1,0 +1,30 @@
+# Core dependencies
+tensorflow>=2.10.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scikit-multilearn>=0.2.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilities
+tqdm>=4.62.0
+Pillow>=8.3.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Code quality
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.10.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Google Colab specific (optional)
+ google-colab
